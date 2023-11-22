@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mjsaadi
+- 👋 Hi, I’m Mustafa
 - 👀 I’m interested in AI and Enterprise Software
 - 🌱 I’m currently learning chatGPT
 - 💞️ I’m looking to collaborate on AI projects
